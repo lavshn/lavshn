@@ -11,14 +11,14 @@
   <a href="https://discord.com/channels/@lavxhn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=FF69B4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="lavshonorio0404@gmail.com" target="_blank">
+  <a href="mailto:lavshonorio0404@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF69B4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<h1 data-importer="text" align="center">hello world! I'm Lavínia 𐙚</h1>
+<h1 data-importer="text" align="center">hello world! I'm Lavínia˚.🎀༘⋆</h1>
 
 ###
 
