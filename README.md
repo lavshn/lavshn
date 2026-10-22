@@ -26,7 +26,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm from Brasil 🇧🇷<br><br>✰ Working as IT Infrastructure Engineer (Mainframe & MFT) at Bradesco<br>✰ Background in Data Analytics & Automation<br>✰ Currently learning Data Analytics - PosTech FIAP<br>✰ In my free time I love traveling to new places and watching horror movies</p>
+<p data-importer="text" align="left">✰ Working as IT Infrastructure Engineer (Mainframe & MFT) at Bradesco<br>✰ Background in Data Analytics & Automation<br>✰ Currently learning Data Analytics - PosTech FIAP<br>✰ In my free time I love traveling to new places and watching horror movies</p>
 
 ###
 
